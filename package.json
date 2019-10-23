@@ -1,0 +1,25 @@
+{
+  "name": "static-react-router",
+  "version": "1.0.0",
+  "description": "Simple static react router that can get you up and running in 5 minutes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fourcolors/static-react-router.git"
+  },
+  "keywords": [
+    "react",
+    "router",
+    "static",
+    "declarative"
+  ],
+  "author": "Sterling Cobb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fourcolors/static-react-router/issues"
+  },
+  "homepage": "https://github.com/fourcolors/static-react-router#readme"
+}

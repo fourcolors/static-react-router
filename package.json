@@ -1,14 +1,16 @@
 {
-  "name": "static-react-router",
+  "name": "mr-react-router",
   "version": "1.0.0",
-  "description": "Simple static react router that can get you up and running in 5 minutes.",
-  "main": "index.js",
+  "description": "Simple yet powerful static react router with hooks that can get you up and running within 5 minutes.",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/fourcolors/static-react-router.git"
+    "url": "git+ssh://git@github.com/fourcolors/mr-react-router.git"
   },
   "keywords": [
     "react",
@@ -19,7 +21,13 @@
   "author": "Sterling Cobb",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fourcolors/static-react-router/issues"
+    "url": "https://github.com/fourcolors/mr-react-router/issues"
   },
-  "homepage": "https://github.com/fourcolors/static-react-router#readme"
+  "homepage": "https://github.com/fourcolors/mr-react-router#readme",
+  "dependencies": {
+    "@types/history": "^4.7.3",
+    "@types/react": "^16.9.10",
+    "history": "^4.10.1",
+    "react": "^16.11.0"
+  }
 }

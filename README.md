@@ -1,5 +1,5 @@
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/fourcolors/mr-react-router/master/stash.jpg" alt=" Mr. React Router Stash">
+<div style="display:flex; justify-content: center">
+    <img src="https://raw.githubusercontent.com/fourcolors/mr-react-router/master/stash.jpg" alt=" Mr. React Router Stash">
 </div>
 
 # Mr React Router

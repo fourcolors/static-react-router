@@ -1,4 +1,6 @@
-![Mr. React Router Stash](https://raw.githubusercontent.com/fourcolors/mr-react-router/master/stash.jpg)
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/fourcolors/mr-react-router/master/stash.jpg" alt=" Mr. React Router Stash">
+</div>
 
 # Mr React Router
 Simple react router than can get you up and running in 5 minutes
